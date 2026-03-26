@@ -48,6 +48,8 @@
 </p>
 <hr>
 
+<hr>
+
 <h2>🔗 Featured Projects</h2>
 
 <h3>Business Workflow & Inventory Automation</h3>
@@ -77,17 +79,3 @@ Automated business operations platform replacing manual data entry and daily inv
 High performance data pipeline built with a **C++ parser** to standardize over **10,000+ diagnostic logs**. This project integrates Python based anomaly detection to flag hardware failure patterns, which successfully reduced manual troubleshooting time by **10 to 12 percent** while significantly improving overall data reliability.
 
 📁 **GitHub:** [https://github.com/ahmademaish/PC-Diagnostics-Pipeline](https://github.com/ahmademaish/PC-Diagnostics-Pipeline)
-
-<br>
-
-<h3>TMU Baja Engineering Test Data Automation</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-Streamlined engineering data analysis and standardized testing workflows for the TMU Baja Racing team. Built custom Python and MATLAB scripts to clean subsystem test data, improving diagnostic clarity by **around 10 percent**, and maintained the team technical site to centralize documentation and safety schematics.
-
-📁 **GitHub:** [https://github.com/ahmademaish/Baja-Data-Automation](https://github.com/ahmademaish/Baja-Data-Automation)
